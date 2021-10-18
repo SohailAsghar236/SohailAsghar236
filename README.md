@@ -1,7 +1,7 @@
 - 👋 Hi, I am @SohailAsghar236
 - 👀 I’m interested in learning PHP development.
 - 🌱 I’m currently learning Front-end development, Laravel and WordPress.
-- 💞️ I’m looking to collaborate on ...any kind of web development project.
+- 💞️ I’m looking to collaborate on ...any kind of IT related projects.
 - 📫 Reach me at:
   sohailasghar236@hotmail.com --- https://www.linkedin.com/in/sohail-asghar-b4b7a2134/
 
